@@ -1,0 +1,52 @@
+Policy on the processing of personal data
+1. General provisions
+This personal data processing policy is compiled in accordance with the requirements of Federal law No. 152-FZ of 27.07.2006 "on personal data" and defines the procedure for processing personal data and measures to ensure the security of personal data taken by DeusNet (hereinafter referred to as the Operator).
+1.1. The operator aims and the realization of its activities the rights and freedoms of man and citizen during processing of personal data, including protection of rights to inviolability of private life, personal and family privacy.
+1.2. this Operator's policy on personal data processing (hereinafter referred to as the Policy) applies to all information that the Operator can obtain about website visitors http://DeusNet.ru.
+
+2. Main concepts used in the Policy
+2.1. Automated processing of personal data – processing of personal data using computer technology;
+2.2. Blocking of personal data – temporary termination of processing of personal data (except for cases when processing is necessary to clarify personal data);
+2.3. Website – a set of graphic and informational materials, as well as computer programs and databases that ensure their availability on the Internet at the network address http://DeusNet.ru;
+2.4. personal data Information system — a set of personal data contained in databases, and information technologies and technical means that ensure their processing;
+2.5. Depersonalization of personal data — actions that make it impossible to determine the identity of personal data to a specific User or other personal data subject without using additional information;
+2.6. personal data Processing – any action (operation) or set of actions (operations) performed with or without the use of automation tools with personal data, including collection, recording, systematization, accumulation, storage, clarification (update, change), extraction, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of personal data;
+2.7. Operator – a state body, municipal body, legal entity or individual that independently or jointly with other persons organizes and (or) performs the processing of personal data, as well as determines the purposes of processing personal data, the composition of personal data to be processed, actions (operations) performed with personal data;
+2.8. Personal data – any information related directly or indirectly to a specific or identifiable website User http://DeusNet.ru;
+2.9. User – any visitor to the website http://DeusNet.ru;
+2.10. Provision of personal data – actions aimed at disclosure of personal data to a certain person or a certain circle of persons;
+2.11. Dissemination of personal data – any actions aimed at disclosure of personal data to an indefinite circle of persons (transfer of personal data) or at familiarization with personal data of an unlimited number of persons, including disclosure of personal data in the mass media, placement in information and telecommunications networks, or providing access to personal data in any other way;
+2.12. cross-Border transfer of personal data – transfer of personal data to the territory of a foreign state to a foreign state authority, a foreign individual or a foreign legal entity;
+2.13. Destruction of personal data – any actions that result in the irrevocable destruction of personal data with the inability to further restore the content of personal data in the personal data information system and (or) destruction of material carriers of personal data.
+
+3. the Operator may process the following personal data of the User
+3.1. Surname, first name, patronymic;
+3.2. E-mail address;
+3.3. Phone numbers;
+3.4. Also on the website, the collection and processing of anonymous data about visitors (including "cookies") through the services of Internet statistics (Yandex Metric and Google Analytics and others).
+3.5. the above-Mentioned data, hereinafter referred to as the Policy, is combined under the General concept of Personal data.
+
+4. Purposes of personal data processing
+4.1. the Purpose of processing the User's personal data is to inform the User by sending emails; to provide the User with access to the services, information and/or materials contained on the website.
+4.2. the Operator Also has the right to send notifications to the User about new products and services, special offers and various events. The user can always refuse to receive information messages by sending an email to the Operator vk.com/suller_extermination marked "Unsubscribe from notifications of new products and services and special offers".
+4.3. Depersonalized User data collected through Internet statistics services is used to collect information about User actions on the site, improve the quality of the site and its content.
+
+5. Legal grounds for processing personal data
+5.1. the Operator processes the User's personal data only if they are filled in and / or sent by the User independently via special forms located on the site http://DeusNet.ru. By filling out the appropriate forms and / or sending your personal data to the Operator, the User agrees to this Policy.
+5.2. the Operator processes depersonalized data about the User if this is allowed in the User's browser settings (saving cookies and using JavaScript technology is enabled).
+
+6. Procedure for collecting, storing, transmitting and other types of personal data processing
+The security of personal data processed by the Operator is ensured by implementing legal, organizational and technical measures necessary to fully comply with the requirements of current legislation in the field of personal data protection.
+6.1. the Operator ensures the safety of personal data and takes all possible measures to exclude access to personal data of unauthorized persons.
+6.2. the User's Personal data will never, under any circumstances, be transferred to third parties, except in cases related to the implementation of current legislation.
+6.3. if inaccuracies in personal data are detected, the User can update them independently by sending a notification to the Operator's email address vk.com/suller_extermination marked "Updating personal data".
+6.4. The term of processing of personal data is unlimited. The user can withdraw their consent to the processing of personal data at any time by sending a notification to the Operator via email to the Operator's email address vk.com/suller_extermination marked "Revocation of consent to the processing of personal data".
+
+7. Cross-border transfer of personal data
+7.1. the Operator must ensure that the rights of personal data subjects are reliably protected by the foreign state to which the personal data is intended to be transferred prior to the start of cross-border transfer of personal data.
+7.2. cross-Border transfer of personal data on the territory of foreign States that do not meet the above requirements can only be carried out if the personal data subject agrees in writing to cross-border transfer of his/her personal data and / or performs the contract to which the personal data subject is a party.
+
+8. Final provisions
+8.1. the User can get any clarifications on issues of interest related to the processing of their personal data by contacting the Operator via email vk.com/suller_extermination.
+8.2. This document will reflect any change in the policy of processing of personal data by the Operator. The policy is valid indefinitely until it is replaced with a new version.
+8.3. the Current version of the Policy is freely available on the Internet at http://DeusNet.ru/privacy/.

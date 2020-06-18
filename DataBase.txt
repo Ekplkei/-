@@ -1,0 +1,2 @@
+Id	Email	Phone	password
+1	EkplkeiDei@yandex.ru	89234234123	кароль
